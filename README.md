@@ -74,10 +74,12 @@ start_client()
 
 ## OUTPUT
 
-**SERVER**
+**SERVER:**
+
 ![image](https://github.com/user-attachments/assets/13a44d80-ef06-4e4c-921a-ff3ef772fa1b)
 
-**CLIENT**
+**CLIENT:**
+
 ![image](https://github.com/user-attachments/assets/e76d3a2c-e81e-479a-83bd-5220681e5e3e)
 
 
